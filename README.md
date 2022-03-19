@@ -1,5 +1,5 @@
 <h1 align="center">
-   ByteBank
+   Store
 </h1>
 
 <br>
@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Clone o repositório e entre na pasta do projeto
-$ git clone https://github.com/lucasspeixoto/bytebank.git && cd bytebank
+$ git clone https://github.com/lucasspeixoto/clothing_store.git && cd clothing_store
 
 
 # Execute a aplicação
